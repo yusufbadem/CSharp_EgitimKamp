@@ -8,4 +8,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\01_MainSubjects\01_MainSubjects.csproj" />
+    <ProjectReference Include="..\02_Variables\02_Variables.csproj" />
+    <ProjectReference Include="..\03_MakingDecision\03_MakingDecision.csproj" />
+    <ProjectReference Include="..\05_LoopWithStars\05_LoopWithStars.csproj" />
+    <ProjectReference Include="..\06_Arrays\06_Arrays.csproj" />
+    <ProjectReference Include="..\08_Metods\08_Metods.csproj" />
+    <ProjectReference Include="..\09_DatabasePRoject\09_DatabasePRoject.csproj" />
+  </ItemGroup>
+
 </Project>
