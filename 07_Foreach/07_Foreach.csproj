@@ -15,7 +15,7 @@
     <ProjectReference Include="..\05_LoopWithStars\05_LoopWithStars.csproj" />
     <ProjectReference Include="..\06_Arrays\06_Arrays.csproj" />
     <ProjectReference Include="..\08_Metods\08_Metods.csproj" />
-    <ProjectReference Include="..\09_DatabasePRoject\09_DatabasePRoject.csproj" />
+    <ProjectReference Include="..\09_DatabasePRoject\09_DatabaseProject.csproj" />
   </ItemGroup>
 
 </Project>

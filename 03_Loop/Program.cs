@@ -2,7 +2,7 @@
 
 
 
-{
+
     #region For döngüsü
     //int i;
     //for ( i = 0; i < 5; i++)
@@ -138,4 +138,3 @@
 
 
     Console.Read();
-}
