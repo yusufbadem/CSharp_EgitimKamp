@@ -51,7 +51,10 @@
 <p>- MsSql de basit scriptler yazarak oluşturdugumuz tablolardan bilgileri çekerek çıktılar aldık</p>
 <p>- Ado .Net ile databese baglantısı yaptık ve databsede oluşturdugumuz tablolardan bilgiler çekerek ekrana yazdırdık</p>
 
-
+<h3><b>10- Proje - Database Ado .Net</b></h3>
+<p>- Ado .Net ile birlikte Ürün Ekleme ve Kategori Ekleme işlemi gerçekleştirdik</p>
+<p>- Sql baglantısı saglanarak database ile baglantı kuruldu</p>
+<p>- Adonet ile sql commandler yazarak bir veya birden fazla propertye ekleme işlemi gerçekleştirdik</p>
 
 
 
