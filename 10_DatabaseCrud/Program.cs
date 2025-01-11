@@ -127,7 +127,7 @@ namespace _10_DatabaseCrud
 
             connection.Close();
 
-            Console.WriteLine("ÜRün Güncelleme Başarılı");
+            Console.WriteLine("Ürün Güncelleme Başarılı");
 
             #endregion
             Console.ReadLine(); 
